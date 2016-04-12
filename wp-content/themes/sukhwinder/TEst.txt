@@ -5,3 +5,8 @@ Changes done by Sukhwinder
 
 Hello thanks i checked it
 
+<<<<<<< HEAD
+=======
+Thanks 
+Done
+>>>>>>> 246f164d5f8ca17246e0b15d9966e51dcb0fca1e
